@@ -17,7 +17,7 @@ df = web.DataReader('TATASTEEL.NS',data_source='yahoo' , start='2010-01-01' , en
 #Get the no of rows and coulmns
 #print(df.shape)
 
-#Visualize the closing price
+#Visualize the High price
 
 plt.figure(figsize=(12,8))
 plt.title('HIGH PRICE HISTORY')
