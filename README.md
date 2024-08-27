@@ -63,7 +63,7 @@ To get started with this project, follow these steps:
    You can install these packages using `pip`. Run the following command:
 
    ```bash
-   pip install tensorflow keras pandas matplotlib seaborn
+   pip install tensorflow keras pandas matplotlib
    ```
 
 4. **Prepare Your Data**
